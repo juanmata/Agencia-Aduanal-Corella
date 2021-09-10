@@ -1,0 +1,34 @@
+{
+  "name": "sliphover",
+  "version": "2.0.4",
+  "homepage": "http://wayou.github.io/SlipHover/",
+  "authors": [
+    "wayou <liuwayong@gmail.com>"
+  ],
+  "description": "apply direction aware animation to images caption",
+  "main": "src/jquery.sliphover.js",
+  "keywords": [
+    "image",
+    "gallery",
+    "animation",
+    "picture",
+    "caption"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "2.0.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.4",
+    "commit": "33404aee824dcae8f192df6df5823adaeb950456"
+  },
+  "_source": "git://github.com/wayou/SlipHover.git",
+  "_target": "~2.0.4",
+  "_originalSource": "sliphover"
+}
